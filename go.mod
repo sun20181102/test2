@@ -1,4 +1,4 @@
-module github.com/test2
+module github.com/sun20181102/test2
 
 go 1.17
 
