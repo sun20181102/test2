@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/test2/pkg/echo"
-	hellowword "github.com/test2/pkg/helloword"
+	"github.com/sun20181102/test2/pkg/echo"
+	hellowword "github.com/sun20181102/test2/pkg/helloword"
 )
 
 func main() {
